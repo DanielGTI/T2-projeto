@@ -29,7 +29,7 @@ Sem o envio do email com estas informações o trabalho não será corrigido.
 
 
 ## Calendário de Entregas
-* **31/05/2021**
+* **13/06/2021** (prazo ampliado)
 	+ Envio do email formalizando a entrega do projeto.
 
 No **Titulo** do email informar apenas: **Entrega T2-projeto**
